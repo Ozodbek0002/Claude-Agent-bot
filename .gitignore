@@ -1,0 +1,7 @@
+.env
+.venv/
+state.json
+state.tmp
+bot.log
+runs/
+__pycache__/
